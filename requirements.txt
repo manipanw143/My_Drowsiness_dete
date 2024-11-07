@@ -1,4 +1,12 @@
 streamlit
-av
-streamlit_nested_layout
 streamlit_webrtc
+streamlit_nested_layout
+opencv-python
+av
+pydub
+ffmpeg
+mediapipe  # If used for facial feature detection
+tensorflow  # If you're using deep learning models for drowsiness detection
+scikit-learn  # For traditional machine learning models
+numpy
+pandas
