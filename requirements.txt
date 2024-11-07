@@ -1,7 +1,7 @@
 streamlit
 streamlit_webrtc
 streamlit_nested_layout
-opencv-python
+opencv-python-headless
 av
 pydub
 ffmpeg

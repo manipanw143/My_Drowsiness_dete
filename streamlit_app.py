@@ -3,7 +3,6 @@ import av
 import threading
 import streamlit as st
 import streamlit_nested_layout
-import cv2
 
 from streamlit_webrtc import VideoHTMLAttributes, webrtc_streamer
 
