@@ -3,7 +3,10 @@ import av
 import threading
 import streamlit as st
 import streamlit_nested_layout
+import cv2
+
 from streamlit_webrtc import VideoHTMLAttributes, webrtc_streamer
+
 
 from audio_handling import AudioFrameHandler
 from drowsy_detection import VideoFrameHandler
