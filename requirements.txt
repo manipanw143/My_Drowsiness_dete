@@ -1,3 +1,4 @@
 streamlit
 av
 streamlit_nested_layout
+streamlit_webrtc
